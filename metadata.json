@@ -1,0 +1,7 @@
+{
+  "name": "Corporate Expense Tracker",
+  "description": "A Google Forms-style expense management application with dynamic sections for travel, food, and accommodation, designed for seamless data entry and branch-specific salesperson tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
