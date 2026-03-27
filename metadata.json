@@ -1,6 +1,6 @@
 {
   "name": "Corporate Expense Tracker",
-  "description": "A Google Forms-style expense management application with dynamic sections for travel, food, and accommodation, designed for seamless data entry and branch-specific salesperson tracking.",
+  "description": "An advanced corporate expense management system for GINZA INDUSTRIES LIMITED. Features automated Google Sheets integration with multi-stage approval workflows, branch-specific email notifications, and real-time tracking of payment processing and release.",
   "requestFramePermissions": [
     "camera"
   ]
