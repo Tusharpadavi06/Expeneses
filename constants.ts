@@ -11,7 +11,7 @@ export const BRANCH_SALES_MAPPING: BranchSalesData = {
   "Bangalore": ["Murali Krishna","Balasubramanyam", "Tarachand"],
   "Tirupur": ["Ravi Barman","Alexander Pushkin", "Subramanian", "Mani Maran"],
   "Surat": ["Piyush Baid", "Anil Marthe", "Raghuveer Darbar", "Sailesh Pathak", "Vanraj Darbar"],
-  "Ludhiana": ["Kavita Acharya"]
+  "Ludhiana": ["Mahesh Chandeliya"]
 };
 
 export const CATEGORIES: string[] = ['Travel', 'Food', 'Accommodation', 'Other'];
